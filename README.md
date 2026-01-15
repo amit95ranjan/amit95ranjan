@@ -9,11 +9,10 @@
 
 ## 🔹 About Me
 
-## 🔹 About Me
-👨‍💻 Currently working as a **Freelance Data Analyst / Data Consultant**
-📊 Experienced in **Advanced Analytics, Data Storytelling & Machine Learning**
-🌱 Continuously learning **Data Visualization (Power BI, Tableau)**
-💬 Ask me about **Python, Machine Learning, SQL, Power BI, Tableau**
+👨‍💻 Currently working as a **Freelance Data Analyst / Data Consultant** 
+📊 Experienced in **Advanced Analytics, Data Storytelling & Machine Learning** 
+🌱 Continuously learning **Data Visualization (Power BI, Tableau)** 
+💬 Ask me about **Python, Machine Learning, SQL, Power BI, Tableau** 
 
 📫 Reach me at **amit95ranjan@gmail.com**
 
