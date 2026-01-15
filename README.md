@@ -25,11 +25,6 @@
  <br clear="right"/>
 
 
-  </td>
-  </tr>
-</table>
-
-
 <h3>Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/amit-ranjan-3279a9142/" target="_blank">
