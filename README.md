@@ -3,13 +3,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amit95ranjan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
- 
-
 <img
   align="right"
   width="350"
   style="margin-left:60px; margin-top:10px;"
-  src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"
+src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"
 />
 ## 🔷 About Me
 - 👨‍💻 Currently working as a **Freelance Data Analyst / Data Consultant**
@@ -17,10 +15,7 @@
 - 🌱 Continuously learning **Data Visualization (Power BI, Tableau)**
 - 💬 Ask me about **Python, Machine Learning, SQL, Power BI, Tableau**
 - 📫 Reach me at **amit95ranjan@gmail.com**
-
  <br clear="right"/>
-
-
 <h3>Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/amit-ranjan-3279a9142/" target="_blank">
@@ -43,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="40" title="Seaborn"/>
 </p>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit95ranjan&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 
