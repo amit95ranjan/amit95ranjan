@@ -15,6 +15,7 @@ src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c1
 - 🌱 Continuously learning **Data Visualization (Power BI, Tableau)**
 - 💬 Ask me about **Python, Machine Learning, SQL, Power BI, Tableau**
 - 📫 Reach me at **amit95ranjan@gmail.com**
+ 
  <br clear="right"/>
 <h3>Connect with me:</h3>
 <p>
@@ -38,6 +39,7 @@ src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c1
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="40" title="Seaborn"/>
 </p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit95ranjan&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 
