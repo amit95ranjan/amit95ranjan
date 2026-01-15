@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amit95ranjan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+<img align="left" width="190" src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
 
+## 🔹 About Me
 👨‍💻 Currently working as a **Freelance Data Analyst / Data Consultant**
 
 📊 Experienced in **Advanced Analytics, Data Storytelling & Machine Learning**
@@ -13,6 +15,7 @@
 💬 Ask me about **Python, Machine Learning, SQL, Power BI, Tableau**
   
 📫 Reach me at **amit95ranjan@gmail.com**
+<br clear="left"/>
 
 <h3>Connect with me:</h3>
 <p>
