@@ -4,13 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=amit95ranjan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-👨‍💻 Currently working as a **Freelance Data Analyst / Data Consultant**, helping businesses turn data into insights
+👨‍💻 Currently working as a **Freelance Data Analyst / Data Consultant**
 
-📊 Experienced in **Data Processing, Machine Learning, Advanced Analytics & Data Storytelling**
+📊 Experienced in **Advanced Analytics, Data Storytelling & Machine Learning**
 
-🌱 Continuously learning **Data Analysis, Data Visualization (Power BI, Tableau)** and business reporting
+🌱 Continuously learning **Data Visualization (Power BI, Tableau)**
   
-💬 Ask me about **Python, SQL, Power BI, Tableau, Machine Learning**
+💬 Ask me about **Python, Machine Learning, SQL, Power BI, Tableau**
   
 📫 Reach me at **amit95ranjan@gmail.com**
 
