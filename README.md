@@ -11,6 +11,7 @@ src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c1
 />
 
 ## 🔷 About Me
+
 - 👨‍💻 Currently working as a **Freelance Data Analyst / Data Consultant**
 - 📊 Experienced in **Advanced Analytics, Data Storytelling & Machine Learning**
 - 🌱 Continuously learning **Data Visualization (Power BI, Tableau)**
