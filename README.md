@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amit95ranjan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-<table>
-  <tr>
-    <td valign="top" width="70%">
+ 
 
 <img
   align="right"
