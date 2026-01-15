@@ -4,15 +4,22 @@
   <img src="https://komarev.com/ghpvc/?username=amit95ranjan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 - 👨‍💻 Currently working as a **Freelance Data Analyst / Data Consultant**, helping businesses turn data into insights
+
 - 📊 Experienced in **Data Processing, Machine Learning, Advanced Analytics & Data Storytelling**
+- 
 - 🌱 Continuously learning **Data Analysis, Data Visualization (Power BI, Tableau)** and business reporting
+- 
 - 💬 Ask me about **Python, SQL, Power BI, Tableau, Machine Learning**
+- 
 - 📫 Reach me at **amit95ranjan@gmail.com**
 
 <h3>Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/amit-ranjan-3279a9142/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://www.kaggle.com/amit95ranjan" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kaggle.svg" width="40" title="Kaggle"/>
   </a>
 </p>
 <h3>Languages and Tools:</h3>
