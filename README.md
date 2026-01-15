@@ -40,9 +40,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="40" title="Seaborn"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit95ranjan&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit95ranjan&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
 
 
 
